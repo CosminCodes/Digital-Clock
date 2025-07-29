@@ -26,7 +26,8 @@ Controlul iluminării LCD-ului cu ajutorul unui buton dedicat.
 
 
 # Schema electrica (KiCad)
-![image](https://github.com/user-attachments/assets/867463f6-da73-4862-a482-b446b0b28f49)
+<img width="1500" height="1077" alt="image" src="https://github.com/user-attachments/assets/c01e69ce-3b35-45cb-98a2-1ae9131a2458" />
+
 
 # Implementare
 
@@ -36,7 +37,8 @@ Sistemul este controlat și configurat folosind 4 butoane, fiecare având funcț
 
 <p align="center">
 	<p align="center">
-	<img src="https://github.com/user-attachments/assets/3c2a556e-9490-492c-a20c-004770c42831" width="80%" height="80%">
+	<img width="872" height="627" alt="image" src="https://github.com/user-attachments/assets/2e7323ac-47e1-4d02-897d-b0c9bc51bbcd" />
+
 </p>
 
 
@@ -83,7 +85,8 @@ Interfața principală afișează următoarele caracteristici:
 
 
 <p align="center">
-	<img src="https://github.com/user-attachments/assets/c6edfdbc-3d6d-4584-9fb1-4c331e95e147" width="45%" height="45%">
+	<img width="617" height="250" alt="image" src="https://github.com/user-attachments/assets/98278efa-b259-40d6-b312-f561d82094c2" />
+
 </p>
 
 - Mod ceas care afișează fie **'24h>'** în format 24h sau **'am/pm'** în format 12h.
@@ -102,8 +105,8 @@ Interfața principală afișează următoarele caracteristici:
 
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/20b6938f-dfc6-4240-975e-0f92e74cbea9" width="45%">
-    <img src="https://github.com/user-attachments/assets/b99ab8fb-1fb3-4cf1-8361-5e9da11076c2" width="45%">
+    <img width="556" height="231" alt="image" src="https://github.com/user-attachments/assets/2be5aab0-0d89-4c68-877a-274cc46fc9fe" />
+    <img width="575" height="236" alt="image" src="https://github.com/user-attachments/assets/2479f97c-b9e1-4034-8a53-dff59a4a0b57" />
 </p>
 
 
@@ -113,7 +116,7 @@ Interfața principală afișează următoarele caracteristici:
 - Această interfață permite utilizatorului să seteze ziua, data și săptămâna.
 
 <p align="center">
-	<img src="https://github.com/user-attachments/assets/a866e6ab-fcab-4c58-9ede-280404e14080" width="45%" height="45%">
+	<img width="533" height="225" alt="image" src="https://github.com/user-attachments/assets/693d2567-247b-483b-b46d-2f7e6b9831df" />
 </p>
 
 #### Setare Alarmă
@@ -124,8 +127,8 @@ Interfața principală afișează următoarele caracteristici:
 - Reține valorile setate anterior, permițând utilizatorului să știe exact ora la care este setată alarma.
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/0bd1bec9-e0f5-43c0-824c-b1201ce6652c" width="45%">
-    <img src="https://github.com/user-attachments/assets/91f0409d-392c-47a2-87b3-8c9e2d93840e" width="45%">
+    <img width="614" height="272" alt="image" src="https://github.com/user-attachments/assets/6ead5d83-ba3b-4bd8-8e3c-1417c0a1dc66" />
+    <img width="614" height="272" alt="image" src="https://github.com/user-attachments/assets/c70614f7-e4bf-48c7-a3c2-ca2c45ab4be8" />
 </p>
 
 
