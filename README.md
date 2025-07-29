@@ -18,10 +18,12 @@ Controlul iluminării LCD-ului cu ajutorul unui buton dedicat.
 
 # Schema logica a proiectului 
 
-![image](https://github.com/user-attachments/assets/2b777af2-8a73-43a0-90c1-039d8f2e3c25)
+<img width="1446" height="658" alt="image" src="https://github.com/user-attachments/assets/c7cb1e24-67f0-4719-a63d-f6af3cfeb3ad" />
+
 
 # Configuratia pinilor
-![image](https://github.com/user-attachments/assets/46df3eef-f4ba-4854-adc1-e60320a10c51)
+<img width="868" height="782" alt="image" src="https://github.com/user-attachments/assets/a1ca6284-a841-4025-9106-84fd4c3ed8a1" />
+
 
 # Schema electrica (KiCad)
 ![image](https://github.com/user-attachments/assets/867463f6-da73-4862-a482-b446b0b28f49)
